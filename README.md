@@ -296,9 +296,17 @@ Source code is protected using **Multi-Layer Bytecode XOR Cipher Encryption**:
 
 ---
 
-### 🌍 International Donations
+### 🌍 International Donors
 
-[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Rupesh%20Mahato-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rupeshmahato)
+> 💡 **International donation platforms are not supported in Nepal.**
+> 
+> If you're from **outside Nepal** and want to support this project:
+> 1. Convert your currency to **NPR (Nepali Rupee)** using any exchange service
+> 2. Send the equivalent amount via **eSewa** to: **`9809642422`**
+> 3. Drop a message on [Telegram @Rupesh22784](https://t.me/Rupesh22784) after sending — thank you! 🙏
+
+[![eSewa Send](https://img.shields.io/badge/📲%20Send%20via%20eSewa-9809642422%20(Rupesh)-60BB46?style=for-the-badge&logoColor=white)](https://wa.me/9779809642422)
+[![Contact on Telegram](https://img.shields.io/badge/✈️%20Notify%20me%20on%20Telegram-%40Rupesh22784-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rupesh22784)
 
 ---
 
