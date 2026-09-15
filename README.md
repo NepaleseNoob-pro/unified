@@ -263,14 +263,55 @@ Source code is protected using **Multi-Layer Bytecode XOR Cipher Encryption**:
 
 <div align="center">
 
+## ☕ Support the Developer — Buy Me a Coffee!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=50&lines=This+tool+is+100%25+FREE+to+use!;If+it+helped+you%2C+consider+a+small+donation+💛;Every+rupee+helps+keep+this+project+alive+🙏" alt="Donation Typing" />
+
+> 🙏 *Ye tool bilkul free hai aur hamesha rahega. Lekin agar UNIFIED ne aapka kaam aasaan kiya ya kuch paisa bachaya, to ek chota sa donation bahut motivation deta hai aur project ko aage badhane mein madad karta hai!*
+
+---
+
+### 💛 Donate via eSewa (Nepal)
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>📱 eSewa</h3>
+      <img src="https://img.shields.io/badge/eSewa%20Number-%2B977%209809642422-60BB46?style=for-the-badge&logo=esewa&logoColor=white" alt="eSewa"/>
+      <br/><br/>
+      <b>📲 Number: <code>9809642422</code></b>
+      <br/>
+      <sub>Name: <b>Rupesh Kumar Mahato</b></sub>
+    </td>
+    <td align="center" width="300">
+      <h3>💚 Khalti</h3>
+      <img src="https://img.shields.io/badge/Khalti%20Number-%2B977%209809642422-5C2D91?style=for-the-badge&logoColor=white" alt="Khalti"/>
+      <br/><br/>
+      <b>📲 Number: <code>9809642422</code></b>
+      <br/>
+      <sub>Name: <b>Rupesh Kumar Mahato</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌍 International Donations
+
+[![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Rupesh%20Mahato-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rupeshmahato)
+[![PayPal](https://img.shields.io/badge/💙%20PayPal%20Donate-rupesh54321kumar%40gmail.com-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rupeshmahato)
+
+---
+
 ### 💬 Support This Project
 
-If UNIFIED helped you save money compared to paid AI tools, please:
-
-⭐ **Star this repository** — helps others find this free tool!
+⭐ **Star this repo** — It's FREE and helps others discover this tool!
 
 [![Star on GitHub](https://img.shields.io/badge/⭐%20Star%20This%20Repo-NepaleseNoob--pro%2Funified-yellow?style=for-the-badge&logo=github)](https://github.com/NepaleseNoob-pro/unified/stargazers)
 
+---
+
 *Made with ❤️ in Nepal 🇳🇵 — Free for everyone, forever!*
+*Donations help keep free tools alive. Even NPR 50 matters! 🙏*
 
 </div>
