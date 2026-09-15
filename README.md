@@ -299,7 +299,6 @@ Source code is protected using **Multi-Layer Bytecode XOR Cipher Encryption**:
 ### 🌍 International Donations
 
 [![Buy Me A Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Rupesh%20Mahato-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rupeshmahato)
-[![PayPal](https://img.shields.io/badge/💙%20PayPal%20Donate-rupesh54321kumar%40gmail.com-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rupeshmahato)
 
 ---
 
