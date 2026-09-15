@@ -305,7 +305,7 @@ Source code is protected using **Multi-Layer Bytecode XOR Cipher Encryption**:
 > 2. Send the equivalent amount via **eSewa** to: **`9809642422`**
 > 3. Drop a message on [Telegram @Rupesh22784](https://t.me/Rupesh22784) after sending — thank you! 🙏
 
-[![eSewa Send](https://img.shields.io/badge/📲%20Send%20via%20eSewa-9809642422%20(Rupesh)-60BB46?style=for-the-badge&logoColor=white)](https://wa.me/9779809642422)
+[![eSewa Send](https://img.shields.io/badge/📲%20Send%20via%20eSewa-9809642422%20(Rupesh)-60BB46?style=for-the-badge&logoColor=white)](https://esewa.com.np)
 [![Contact on Telegram](https://img.shields.io/badge/✈️%20Notify%20me%20on%20Telegram-%40Rupesh22784-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Rupesh22784)
 
 ---
