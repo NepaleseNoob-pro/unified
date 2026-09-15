@@ -1,0 +1,28 @@
+# Unencrypted Source Code Protection (STRICT PRIVATE FILE)
+unified_agent_raw.py
+build_protected.py
+
+# Sensitive API Credentials
+api.json
+apis.txt
+*.env
+.env*
+api_locks.json
+quota_usage.json
+groq_api.txt
+agnes_api.txt
+
+# Byte-compiled / Optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Agent Histories & Plans
+histories/
+plans/
+
+# Logs & Temporary Data
+*.log
+temp/
+scratch/
+.DS_Store

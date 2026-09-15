@@ -1,0 +1,31 @@
+# VIPERP App - Features & Roadmap
+
+## 🟢 Features to Implement / Upgrade (Agreed Pipeline)
+1. **Print Support:** App se documents ko direct print karne ka option.
+2. **Biometric Setup Enhancement:** Fingerprint/Face lock ki integration.
+3. **Smart Push Notifications (Deep Linking):** Notification par click karne se seedha wahi specific page khulna jisse related notification hai.
+4. **Targeted Message Notifications & Direct Reply:** Sirf class members ke messages ke liye notification aana, aur notification bar se hi direct reply karne ki suvidha dena.
+5. **Enhanced Network Speed Indicator:** Speed indicator ka look and feel aur accurate banana.
+6. **Smart App Icon Switching:** Login ke waqt app achanak close nahi hoga (isse ads me problem hoti thi). Icon sirf tabhi change aur app restart hoga jab sidebar se "Exit" button dabaya jayega.
+7. **In-App Updater:** App ke andar hi naye update ki jaankari aur automatic download ka option.
+8. **Floating AI Chatbot (Chat Head):** Har page par ek floating AI bot. Yeh students ko apni API key dalne par access dega (Principals/Superadmin ke liye pehle se khula hoga).
+9. **Gemini API Guide (Nepali Bhasha mein):** API key section me Nepali bhasha me iske faide (benefits) batana, aur steps + links dena ki API key kaise generate karni hai.
+
+---
+
+## 🚀 Future Suggestions (Agli Baar Ke Liye Naye Vichar)
+1. **Native Offline Database (Room DB):** Jo notices, messages ya timetable ek baar khul gaya, wo app me save ho jaye taaki bina internet ke turant dikh sake.
+2. **Interactive Timetable & Notice Widget:** Phone ki home screen par timetable aur aaj ke notice ka widget.
+3. **Biometric for Sensitive Actions:** Sirf app start par nahi, balki fees ya results dekhne se pehle bhi face/fingerprint maangna.
+4. **App Shortcuts:** Phone menu me app icon par long-press karne par "Scan QR" ya "Chat" jaise seedhe options aana.
+
+---
+
+## 💻 Desktop Application Features (Implemented in this Session)
+1. **Windows Desktop App (.exe Installer):** Created using Electron.js and electron-builder, providing a fully native desktop installer for schools.
+2. **Persistent Sessions:** Configured persistent partition (`persist:viperp-session`) that saves login tokens so users do not need to log in repeatedly.
+3. **PWA (Progressive Web App) & Offline Fallback:** Custom `offline.html` dashboard served automatically by the Service Worker when network fails.
+4. **Role-Based Context Menu:** Custom right-click menu with quick links dynamically adapted to the logged-in user's role (Principal, Teacher, Accountant, Student).
+5. **Floating Navigation Controls:** Injected bottom-left floating Back (←) and Refresh (↻) buttons using a preload script.
+6. **Live Landing Page Download Link:** Deployed the compiled `VIPERP Setup.exe` online, adding download buttons to the main landing page hero and footer.
+
