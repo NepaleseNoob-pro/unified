@@ -173,6 +173,27 @@ Source code is protected using **Multi-Layer Bytecode XOR Cipher Encryption**:
 
 ## 👑 Creator & Developer Profile
 
+<div align="center">
+
+<!-- Animated Brand Card Dialog Box -->
+<table align="center" style="border: 2px solid #00F0FF; border-radius: 16px; background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);">
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://rupeshkumarmahato.com.np">
+        <img src="assets/rupesh_brand_avatar.gif" width="160" height="160" alt="Mr. Rupesh Brand Avatar" style="border-radius: 50%; box-shadow: 0 0 20px #00F0FF;" />
+      </a>
+      <br/><br/>
+      <h2 style="color: #FFD700; margin: 5px 0;">👑 Made by Mr. Rupesh</h2>
+      <p style="color: #00F0FF; font-size: 18px; font-weight: bold; font-style: italic; margin: 5px 0;">
+        "RUPESH is not just a name... This is a BRAND! 💎⚡"
+      </p>
+      <sub style="color: #ffffff; font-size: 13px;">Lead Architect & Creator of UNIFIED Super-Agent • Nepal 🇳🇵</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=26&pause=800&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=Created+and+Maintained+by+Rupesh+Kumar+Mahato;Full-Stack+Dev+and+Automation+Engineer;Building+Free+AI+Tools+for+Everyone" alt="Creator Header" />
 
 ### **Rupesh Kumar Mahato**
